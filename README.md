@@ -32,7 +32,6 @@ This notebook would generate the feature database for exeriments, it takes prett
 ### hw2.ipynb
 
 All the experiments and results are all reported in `hw2.ipynb`,long with some comments and findings of the experiments.
-(BTW, the tables appears to be weird on github, but looks fine when running on local jupyter notebook)
 
 ## Built With
 
