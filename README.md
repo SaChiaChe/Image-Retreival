@@ -19,17 +19,17 @@ We experiment with Gabor feature, local binary pattern, histogram of oriented gr
 
 We experiment with SIFT desciptors, the result are reported in `hw2.pynb`
 
-### How to run
+## How to run
 
-#### Features.py / utils.py
+### Features.py / utils.py
 
 These 2 files contain the functions for extracting feature and functions for running experiments
 
-#### GenerateFeatureDatabase.ipynb
+### GenerateFeatureDatabase.ipynb
 
 This notebook would generate the feature database for exeriments, it takes pretty long to generate features, mostly spent on generating auto-correlograms, you could comment auto-correlogram out to speed up or email me to ask for the final `FeatureDatabase.pkl`
 
-#### hw2.ipynb
+### hw2.ipynb
 
 All the experiments and results are all reported in `hw2.ipynb`,long with some comments and findings of the experiments.
 (BTW, the tables appears to be weird on github, but looks fine when running on local jupyter notebook)
